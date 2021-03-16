@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "http://google.com",
+      "name": "THIAGO GASPAR",
+      "email": "00000@gmail.com",
+      "birth": -23890291200000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "12",
+      "height": "12"
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://google.com",
+      "name": "THIAGO GASPAR",
+      "email": "00000@gmail.com",
+      "birth": 1614902400000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "55",
+      "height": "555"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1553531580-a000ac8df244?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=564&q=80",
+      "name": "Nathalia Theodoro",
+      "birth": 678585600000,
+      "gender": "F",
+      "services": "Inglês, Português, Espanhol(RBD)",
+      "created_at": 1612547305435
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1594737625785-a6cbdabd333c?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "name": "Thiago",
+      "birth": 1612137600000,
+      "gender": "M",
+      "services": "TI",
+      "created_at": 1612707097928
+    }
+  ]
+}
